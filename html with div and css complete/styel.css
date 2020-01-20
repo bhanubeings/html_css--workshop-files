@@ -1,0 +1,58 @@
+/* style sheet */
+
+.c{
+	color : green ;
+}
+
+.head{
+	background-color: #effcef;
+}
+body{
+	background-image: url(E:\img.jpg);
+	background-repeat : repeat-y;
+	 background-repeat: no-repeat;
+	  background-position:top right;
+	   background-attachment: fixed;
+	    background-size: cover;
+}
+
+#qu{
+border-style: dashed;
+border-width: 5px;
+border-color: white;
+margin:50px;/* margin property over here */
+
+}
+
+
+p{
+	border-bottom-style:solid;
+	border-bottom-color:#f8b400;
+	border-bottom-width:10px;
+	margin-bottom: 100px;
+  margin-right: 150px;
+  padding:10px; 
+  padding-bottom:130px;
+  text-align:center;
+  letter-spacing: 2px;
+  line-height: 1.8;
+  word-spacing: 5px; /*- values anbe given size redues */
+}
+}
+
+.q{
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  text-shadow: 1px 1px 2px black ;
+  
+}
+li{
+	
+	font-family: Arial;
+	   font-style: italic;
+
+
+
+
+
